@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
+
 Explore your favorite movies, rate them & add them to your list!
+
 
 
 ![image](https://github.com/Zotq/usePopcorn/assets/88341255/a8c847d7-5b30-40f1-bf4f-d1e827b88007)
